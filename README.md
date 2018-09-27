@@ -1,3 +1,3 @@
 # hello-world
-Ny first repository
+My first repository
 Yes, I do it!
